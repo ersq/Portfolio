@@ -10,3 +10,9 @@ Hello, I'm Ella! Welcome to a portfolio of my data analysis projects!
   
   📄 [Read the report](LifeExpectancyModelling/GlobalLifeExpectancyReport.pdf) | 💻 [View code](LifeExpectancyModelling/LifeExpectancyCode.R)
 
+SpamEmailClassifier.ipynb
+- **Spam Email Classifier**
+  
+  Explored Email dataset to effectively predict spam emails using logistic regression with LASSO regularisation.
+  
+  💻 [View code + report](SpamEmailClassifier/SpamEmailClassifier.ipynb)
